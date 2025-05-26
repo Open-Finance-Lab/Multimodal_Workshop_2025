@@ -4,6 +4,40 @@ title: Call for Papers
 permalink: /call_for_papers/
 weight: 2
 ---
+# Call for Paper
+Researchers in financial services, investment, data science, machine learning, and related disciplines are encouraged to join the workshop to discuss challenges and future research directions in topics including, but not limited to: 
+
+* (FinData) Multimodal financial dataset and benchmark question sets
+
+* (FinData) Data privacy and regulatory compliance
+
+* (FinAgents) Novel architectures and methods for FinLLMs and FinAgents
+
+* (FinAgents) Agent protocols and agent orchestration tailored for finance
+
+* (FinAgents) Agentic FinAI ecosystem and guardrails
+
+* (FinModels) Post-training methods for financial multimodal data
+
+* (FinModels) Interpretability and explainability of FinModels
+
+* (FinModels) Hallucination, misinformation, ethics and safety of FinModels
+
+* (FinModels) Promoting open models in the finance sector
+
+* (FinModels) FinAI readiness and governance 
+
+* (FinApps) Financial Applications of LLMs and Agents (including but not limited to): 
+
+   * Exploration of multimodal financial scenarios
+
+   * Analyzing financial and business reports, e.g., SEC 10-K, 10-Q filings
+
+   * Investment advisory services
+
+   * Quantmental: LLM-generated signals and risks
+
+   * Code generation for financial services and quantitative finance
 
 # Important Dates
 **Submission Deadline**: August 22, 2025 (AoE)
@@ -23,15 +57,4 @@ References and appendix should be appended into the same (single) PDF document, 
 * neurips_2025.pdf - example PDF output
 
 The reviewing process is double-blind, using OpenReview. All submissions will be peer-reviewed based on technical contribution, originality, relevance to areas of interest, and presentation clarity. Papers may be accepted for oral (contributed talks, each 10 minutes) or poster presentation.
-
-# Relevant Topics
-This workshop aims to promote discussions and collaborations among researchers, practitioners, and policymakers on openness in AI. Researchers are encouraged to explore the technical, ethical, and legal dimensions of openness in AI and associated challgnges. Topics include, but not limited to: 
-* Understanding the Model Openness Framework
-* Open science, open source, open data, open model, open tooling
-* Demystifying AI black boxes
-* Ethical considerations in AI openness
-* Definition of open source AI
-* Interpretability and explainability of AI models 
-* Combating "openwashing" practices and behaviors 
-* Open licenses
 
