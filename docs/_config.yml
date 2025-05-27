@@ -22,7 +22,7 @@ title: Financial Multimodal Workshop
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Website for LLMs and Agents for Multimodal Financial Data and Applications
-baseurl: "/Financial_Multimodal_Workshop" # the subpath of your site, e.g. /blog
+baseurl: "/Multimodal_Workshop_2025" # the subpath of your site, e.g. /blog
 url: "https://open-finance-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
