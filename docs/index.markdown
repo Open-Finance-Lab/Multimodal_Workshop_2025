@@ -16,7 +16,7 @@ weight: 1
   1st Workshop on LLMs and Agents for Multimodal Financial Data and Applications
 </p>
 <p align="center" style="font-size:15px; font-weight:bold;">
-  December 6-7 (TBD), 2025
+  December 6 or 7 (TBD), 2025
 </p>
 <p align="center" style="font-size:15px;">
   9:00 AM EST - 17:40 PM EST
