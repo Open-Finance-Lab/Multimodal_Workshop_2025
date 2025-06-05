@@ -48,48 +48,86 @@ Key concerns include:
 
   <a href="https://cs.stanford.edu/~cbfinn/" target="_blank" style="text-decoration:none; color: inherit;">
     <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/liu-xy.png" alt="Chelsea Finn" style="width:100%; border-radius: 8px 8px 0 0;">
+      <img src="assets/speakers/harvey-stein.png" alt="Harvey Stein" style="width:100%; border-radius: 8px 8px 0 0;">
       <h3>Harvey Stein</h3>
       <p>Two Sigma &  Columbia University</p>
     </div>
   </a>
 
   <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-    <img src="assets/speakers/liu-xy.png" alt="Dawn Song" style="width:100%; border-radius: 8px 8px 0 0;">
-    <h3> Lijuan Wang</h3>
+    <img src="assets/speakers/lijuan-wang.png" alt="Lijuan Wang" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3>Lijuan Wang</h3>
     <p>Microsoft</p>
   </div>
 
   <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-    <img src="assets/speakers/liu-xy.png" alt="Max Tegmark" style="width:100%; border-radius: 8px 8px 0 0;">
+    <img src="assets/speakers/greg-lindahl.png" alt="Greg Lindahl" style="width:100%; border-radius: 8px 8px 0 0;">
     <h3>Greg Lindahl</h3>
     <p>Common Crawl</p>
   </div>
 
   <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-    <img src="assets/speakers/liu-xy.png" alt="Yoshua Bengio" style="width:100%; border-radius: 8px 8px 0 0;">
+    <img src="assets/speakers/arman-cohan.png" alt="Arman Cohan" style="width:100%; border-radius: 8px 8px 0 0;">
     <h3>Arman Cohan</h3>
     <p>Yale University</p>
   </div>
 
 <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-    <img src="assets/speakers/liu-xy.png" alt="Yoshua Bengio" style="width:100%; border-radius: 8px 8px 0 0;">
+    <img src="assets/speakers/hao-ni.png" alt="Hao Ni" style="width:100%; border-radius: 8px 8px 0 0;">
     <h3>Hao Ni</h3>
     <p>UCL</p>
   </div>
 
 <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-    <img src="assets/speakers/liu-xy.png" alt="Yoshua Bengio" style="width:100%; border-radius: 8px 8px 0 0;">
+    <img src="assets/speakers/rose-yu.png" alt="Rose Yu" style="width:100%; border-radius: 8px 8px 0 0;">
     <h3>Rose Yu</h3>
     <p>UCSD</p>
   </div>
 
 </div>
 
-## Contact
-Contact email: 
+## Workshop Organizer
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-Xiao-Yang Liu: 
+  <a href="https://cs.stanford.edu/~cbfinn/" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img src="assets/organizers/liu-xy.png" alt="Xiao-Yang Liu" style="width:100%; border-radius: 8px 8px 0 0;">
+      <h3>Xiao-Yang Liu</h3>
+      <p>Columbia University</p>
+    </div>
+  </a>
+
+  <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+    <img src="assets/organizers/yu-zhou.png" alt="Zhou Yu" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3> Zhou Yu</h3>
+    <p>Columbia University</p>
+  </div>
+
+  <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+    <img src="assets/organizers/li-deng.png" alt="Li Deng" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3>Li Deng</h3>
+    <p>Vatic Investments & Uni. Washington</p>
+  </div>
+
+  <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+    <img src="assets/organizers/yupeng-cao.png" alt="Yupeng Cao" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3>Yupeng Cao</h3>
+    <p>Stevens Institute of Technology</p>
+  </div>
+
+<div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+    <img src="assets/organizers/jimin_huang.jpeg" alt="Jimin Huang" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3>Jimin Huang</h3>
+    <p>The FinAI</p>
+  </div>
+
+<div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+    <img src="assets/organizers/Sophia.png" alt="Sophia Ananiadou" style="width:100%; border-radius: 8px 8px 0 0;">
+    <h3>Sophia Ananiadou</h3>
+    <p>University of Manchester</p>
+  </div>
+
+</div>
 
 
 
