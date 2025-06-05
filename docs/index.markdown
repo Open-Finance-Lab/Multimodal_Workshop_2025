@@ -43,7 +43,8 @@ Key concerns include:
 * (FinModels) FinAI readiness and governance 
 * (FinApps) Financial Applications of LLMs and Agents
 
-## Invited Speakers
+
+## Confirmed Invited Speakers
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <a href="https://www.linkedin.com/in/harveyjstein/" target="_blank" style="text-decoration:none; color: inherit;">
@@ -91,6 +92,35 @@ Key concerns include:
       <img src="assets/speakers/rose-yu.png" alt="Rose Yu" style="width:100%; border-radius: 8px 8px 0 0;">
       <h3>Rose Yu</h3>
       <p>UCSD</p>
+    </div>
+  </a>
+
+</div>
+
+## Confirmed Panelists
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <a href="https://www.matt-white.com/" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img src="assets/speakers/matt-white.png" alt="Matt White" style="width:100%; border-radius: 8px 8px 0 0;">
+      <h3>Matt White</h3>
+      <p>Linux Foundation &  PyTorch Foundation</p>
+    </div>
+  </a>
+
+  <a href="https://alejandrolopezlira.site/" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img src="assets/speakers/alejandro.png" alt="Alejandro" style="width:100%; border-radius: 8px 8px 0 0;">
+      <h3>Alejandro Lopez-lira</h3>
+      <p>University of Florida</p>
+    </div>
+  </a>
+
+  <a href="https://www.linkedin.com/in/caldeirav?originalSubdomain=sg" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img src="assets/speakers/vincent.png" alt="Greg Lindahl" style="width:100%; border-radius: 8px 8px 0 0;">
+      <h3>Vincent Caldeira</h3>
+      <p>Red Hat</p>
     </div>
   </a>
 
