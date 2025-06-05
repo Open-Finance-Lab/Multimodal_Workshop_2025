@@ -22,6 +22,10 @@ weight: 1
   9:00 AM EST - 17:40 PM EST
 </p>
 
+#### Resource
+* [Documentation](https://awesome-mffms.readthedocs.io/en/latest/#)
+* [Position Paper](https://arxiv.org/abs/2506.01973)
+
 ## Introduction
 Generative AI, in particular LLMs and agents, could facilitate financial institutions to process transactions 90% faster and potentially save 1 trillion USD globally by 2030 (Link). Financial Large Language Models (FinLLMs), such as proprietary BloombergGPT and open FinGPT, have attracted active research on financial data and benchmarks. Beyond such an earlier language-centric approach, multimodal LLMs and agents can digest interleaved multimodal financial data, including fundamental data, market information, data analytics, macroeconomic, and other data (e.g., natural language, audio, images, and video). 
 
