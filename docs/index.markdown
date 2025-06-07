@@ -133,7 +133,7 @@ Key concerns include:
 ## Workshop Organizers
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <a href="https://scholar.google.com/citations?user=C83b8ncAAAAJ&hl=en" target="_blank" style="text-decoration:none; color: inherit;">
+<a href="https://scholar.google.com/citations?user=C83b8ncAAAAJ&hl=en" target="_blank" style="text-decoration:none; color: inherit;">
     <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
       <img 
         src="assets/organizers/liu-xy.png" 
@@ -163,10 +163,67 @@ Key concerns include:
     </div>
   </a>
 
-  <!-- Continue similarly for other images -->
+  <a href="https://lidengsite.wordpress.com/" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img 
+        src="assets/organizers/li-deng.png" 
+        alt="Li Deng" 
+        style="
+          width: 100%; 
+          height: 200px; 
+          object-fit: cover; 
+          border-radius: 8px 8px 0 0;">
+      <h3>Li Deng</h3>
+      <p>Vatic Investments & Uni. Washington</p>
+    </div>
+  </a>
+
+  <a href="https://cyp0630.github.io/" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img 
+        src="assets/organizers/yupeng-cao.png" 
+        alt="Yupeng Cao" 
+        style="
+          width: 100%; 
+          height: 200px; 
+          object-fit: cover; 
+          border-radius: 8px 8px 0 0;">
+      <h3>Yupeng Cao</h3>
+      <p>Stevens Institute of Technology</p>
+    </div>
+  </a>
+
+  <a href="https://www.thefin.ai/about/leadership" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img 
+        src="assets/organizers/jimin_huang.jpeg" 
+        alt="Jimin Huang" 
+        style="
+          width: 100%; 
+          height: 200px; 
+          object-fit: cover; 
+          border-radius: 8px 8px 0 0;">
+      <h3>Jimin Huang</h3>
+      <p>The FinAI</p>
+    </div>
+  </a>
+
+  <a href="https://research.manchester.ac.uk/en/persons/sophia.ananiadou" target="_blank" style="text-decoration:none; color: inherit;">
+    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
+      <img 
+        src="assets/organizers/Sophia.png" 
+        alt="Sophia Ananiadou" 
+        style="
+          width: 100%; 
+          height: 200px; 
+          object-fit: cover; 
+          border-radius: 8px 8px 0 0;">
+      <h3>Sophia Ananiadou</h3>
+      <p>University of Manchester</p>
+    </div>
+  </a>
 
 </div>
-
 
 
 
