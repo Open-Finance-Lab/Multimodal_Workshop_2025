@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Previous Events
-permalink: /
-weight: 1
+permalink: /previous/
+weight: 2
 ---
 
 ## Past Workshops
