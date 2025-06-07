@@ -48,85 +48,94 @@ Key concerns include:
 * (FinApps) Financial Applications of LLMs and Agents
 
 
-## Confirmed Invited Speakers
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="text-align:center; margin-bottom:40px;">
+  <h2 style="margin-bottom:30px;">Confirmed Invited Speakers</h2>
 
-  <a href="https://www.linkedin.com/in/harveyjstein/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/harvey-stein.png" alt="Harvey Stein" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Harvey Stein</h3>
-      <p>Two Sigma &  Columbia University</p>
-    </div>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+
+  <a href="https://www.linkedin.com/in/harveyjstein/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/harvey-stein.png" alt="Harvey Stein" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Harvey Stein</h3>
+        <p style="color:#777;">Two Sigma & Columbia University</p>
+      </div>
   </a>
 
-  <a href="https://www.microsoft.com/en-us/research/people/lijuanw/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/lijuan-wang.png" alt="Lijuan Wang" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Lijuan Wang</h3>
-      <p>Microsoft</p>
-    </div>
+  <a href="https://www.microsoft.com/en-us/research/people/lijuanw/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/lijuan-wang.png" alt="Lijuan Wang" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Lijuan Wang</h3>
+        <p style="color:#777;">Microsoft</p>
+      </div>
   </a>
 
-  <a href="https://www.linkedin.com/in/greglindahl/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/greg-lindahl.png" alt="Greg Lindahl" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Greg Lindahl</h3>
-      <p>Common Crawl</p>
-    </div>
+  <a href="https://www.linkedin.com/in/greglindahl/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/greg-lindahl.png" alt="Greg Lindahl" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Greg Lindahl</h3>
+        <p style="color:#777;">Common Crawl</p>
+      </div>
   </a>
 
-  <a href="https://armancohan.com/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/arman-cohan.png" alt="Arman Cohan" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Arman Cohan</h3>
-      <p>Yale University</p>
-    </div>
+  <a href="https://armancohan.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/arman-cohan.png" alt="Arman Cohan" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Arman Cohan</h3>
+        <p style="color:#777;">Yale University</p>
+      </div>
   </a>
 
-  <a href="https://profiles.ucl.ac.uk/56579-hao-ni" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/hao-ni.png" alt="Hao Ni" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Hao Ni</h3>
-      <p>UCL</p>
-    </div>
+  <a href="https://profiles.ucl.ac.uk/56579-hao-ni" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/hao-ni.png" alt="Hao Ni" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Hao Ni</h3>
+        <p style="color:#777;">UCL</p>
+      </div>
   </a>
 
-  <a href="https://roseyu.com/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/rose-yu.png" alt="Rose Yu" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Rose Yu</h3>
-      <p>UCSD</p>
-    </div>
+  <a href="https://roseyu.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/rose-yu.png" alt="Rose Yu" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Rose Yu</h3>
+        <p style="color:#777;">UCSD</p>
+      </div>
   </a>
+
+  </div>
 
 </div>
 
-## Confirmed Panelists
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <a href="https://www.matt-white.com/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/matt-white.png" alt="Matt White" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Matt White</h3>
-      <p>Linux Foundation &  PyTorch Foundation</p>
-    </div>
+<div style="text-align:center; margin-bottom:40px;">
+  <h2 style="margin-bottom:30px;">Confirmed Panelists</h2>
+
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+
+  <a href="https://www.matt-white.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/matt-white.png" alt="Matt White" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Matt White</h3>
+        <p style="color:#777;">Linux Foundation & PyTorch Foundation</p>
+      </div>
   </a>
 
-  <a href="https://alejandrolopezlira.site/" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/alejandro.png" alt="Alejandro" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Alejandro Lopez-lira</h3>
-      <p>University of Florida</p>
-    </div>
+  <a href="https://alejandrolopezlira.site/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/alejandro.png" alt="Alejandro Lopez-lira" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Alejandro Lopez-lira</h3>
+        <p style="color:#777;">University of Florida</p>
+      </div>
   </a>
 
-  <a href="https://www.linkedin.com/in/caldeirav?originalSubdomain=sg" target="_blank" style="text-decoration:none; color: inherit;">
-    <div style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px; text-align: center; width: 200px;">
-      <img src="assets/speakers/vincent.png" alt="Greg Lindahl" style="width:100%; border-radius: 8px 8px 0 0;">
-      <h3>Vincent Caldeira</h3>
-      <p>Red Hat</p>
-    </div>
+  <a href="https://www.linkedin.com/in/caldeirav?originalSubdomain=sg" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/vincent.png" alt="Vincent Caldeira" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Vincent Caldeira</h3>
+        <p style="color:#777;">Red Hat</p>
+      </div>
   </a>
+
+  </div>
 
 </div>
 
